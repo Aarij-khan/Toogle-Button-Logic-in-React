@@ -1,0 +1,19 @@
+.one{
+   
+    background-color: rgba(15, 124, 15, 0.664);
+    
+}
+.three{
+    background-color: rgba(226, 2, 2, 0.651);
+    
+}
+.set{
+    transform: translateX(220px);
+    background-color: rgb(41, 219, 41);
+}
+.set1{
+    
+    background-color: rgb(207, 13, 13);
+    transform: translateX(0px);
+}
+
